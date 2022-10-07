@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:travel_app/navigation_pages/home_page.dart';
+import 'package:travel_app/pages/home_page.dart';
 import 'package:travel_app/navigation_pages/item_bar_page.dart';
 import 'package:travel_app/navigation_pages/profile_page.dart';
 import 'package:travel_app/navigation_pages/search_page.dart';
